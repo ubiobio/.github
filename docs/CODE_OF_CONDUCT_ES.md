@@ -1,6 +1,11 @@
 Código de conducta
 ===
 
+Este código de conducta está disponible en los siguientes lenguajes:
+* [English](https://github.com/ubiobio/.github/blob/main/docs/CODE_OF_CONDUCT.md)
+* [Spanish](https://github.com/ubiobio/.github/blob/main/docs/CODE_OF_CONDUCT_ES.md)
+---
+
 En Open Source UBB estamos orgullosos de ser una comunidad inclusiva y diversa que tiene como objetivo reunir a los estudiantes que son
 apasionados por el desarrollo de software. En aras de mantener un entorno de colaboración seguro y respetuoso,
 hemos establecido un código de conducta que cada miembro de esta comunidad debe cumplir en todo momento.
