@@ -73,6 +73,6 @@ Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org/), version 1.4,
 available at [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4).
 
-This Code of Conduct has also been inspired by the [GitHub Campus Experts](https://github.com/campus-experts) code of conduct.
+This Code of Conduct has also been inspired by the [GitHub Campus Experts](https://github.com/campus-experts) Code of Conduct.
 
 Community Guidelines were inspired by [Discord's Community Guidelines](https://discord.com/guidelines).
