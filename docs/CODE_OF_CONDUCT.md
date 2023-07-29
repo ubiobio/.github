@@ -65,7 +65,7 @@ We will keep your identity private at all times.
 
 Consequences
 ---
-If our community leaders confirm a member of Open Source is or has engaged in any unacceptable behaviour we will take
+If our community leaders confirm a member of Open Source UBB is or has engaged in any unacceptable behaviour we will take
 action and either forbid them from using our platforms or demote them from their charge, respectively.
 
 Attribution
@@ -73,6 +73,6 @@ Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org/), version 1.4,
 available at [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4).
 
-This Code of Conduct has also been inspired by the [GitHub Campus Experts](https://github.com/campus-experts)
+This Code of Conduct has also been inspired by the [GitHub Campus Experts](https://github.com/campus-experts) code of conduct.
 
 Community Guidelines were inspired by [Discord's Community Guidelines](https://discord.com/guidelines).
