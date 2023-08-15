@@ -52,7 +52,7 @@ Aplicación
 ---
 Si como miembro de nuestra comunidad alguna vez sientes que algún otro miembro está incurriendo en alguno de los puntos enumerados
 bajo el comportamiento que consideramos inaceptable puedes:
-* Enviar un correo electrónico a nuestro equipo en contact@ubiobio.dev.
+* Enviar un correo electrónico a nuestro equipo en contacto@ubiobio.dev.
 * Ponerte en contacto directamente con el líder de la comunidad [BGM](https://github.com/BGMP).
 
 Las cosas de las que puedes informarnos no se limitan a las enumeradas anteriormente, así que si sientes que necesitas ponerte en contacto con nuestros
